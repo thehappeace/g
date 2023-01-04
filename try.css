@@ -1,0 +1,60 @@
+input.lucky{
+    border-radius: 50%;
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    font-size: xx-large;
+    text-align: center;
+}
+input{
+    border-radius: 6%;
+    background-color:rgb(255, 0, 234);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+input.adm{
+    border-radius: 10%;
+    background-color: rgb(255, 0, 255);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: center;
+    width: 70px;
+    height: ;
+}
+input.grade{
+    border-radius: 10%;
+    background-color: rgb(255, 0, 221);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: center;
+    width: 60px;
+}
+body{
+    text-align: center;
+    color:greenyellow;
+    background-color: darkorange;
+    font-size: 15pt;
+    
+}
+h1{
+    color:cyan;
+    text-decoration: wavy;
+    text-underline-position: below;
+}
+    
+button{
+
+    border-radius: 50%;
+    background-color:chartreuse;
+    width: 70px;
+    height: 70px;
+    font-size: xx-large;
+    text-align: center;
+    font-size: large;
+}
+h2{
+    color: blue;
+}
